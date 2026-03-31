@@ -37,6 +37,9 @@ Source :
 - https://www.sigstore.dev/
 - https://www.cve.org/
 - https://owasp.org/www-chapter-sofia/assets/presentations/202505%20-%20Scoring%20Vulnerabilities%20using%20CVSS%20by%20Martin%20Georgiev.pdf
+- https://blog.stephane-robert.info/post/trivy-depot-github-vide/
+- https://securitylabs.datadoghq.com/articles/shai-hulud-2.0-npm-worm/
+- https://www.ibm.com/fr-fr/think/topics/log4j
 
 Contact : 
 - secret manager
