@@ -1,6 +1,4 @@
-Sujet: 
-
-## Sujet 3 — Sécurité supply chain : SBOM, SLSA, signature, provenance
+## Sujet — Sécurité supply chain : SBOM, SLSA, signature, provenance
 ### Angle LeadDev
 Après un “npm install”, comment éviter la compromission bête et méchante ?
 ### Questions possibles
